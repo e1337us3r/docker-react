@@ -7,7 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Yo whatsup</p>
+        <p>
+          This application was created for purpose of learning auto deployment
+          with travis docker and aws.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
